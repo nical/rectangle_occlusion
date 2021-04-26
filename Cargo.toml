@@ -1,0 +1,11 @@
+[package]
+name = "rectangle_occlusion"
+version = "0.1.0"
+authors = ["Nicolas Silva <nical@fastmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+euclid = "0.22"
+smallvec = "1.6"
+svg_fmt = "0.4"
